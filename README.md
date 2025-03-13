@@ -1,6 +1,11 @@
 # Lógica
 
+[![DOC](https://img.shields.io/badge/-DOC-0f72b5.svg?logo=googledocs&style=popout&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white&style=popout)](#)
+
 ![Portada Logic](images/Portada_Logica.png)
+
+[![Status: Completed](https://img.shields.io/badge/Status-Completed-verde.svg?logo=&style=popout)](#)
 
 # Introducción a la lógica
 
